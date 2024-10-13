@@ -1,5 +1,6 @@
 ## Hi there 👋
-My name is Mantana Kodcharin
+👧🏻I'm Mantana Kodcharin
+🩷Call me Chompooh for shorts
 
 ## My Tech Stack 💻
 <p align="center">
