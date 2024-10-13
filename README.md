@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-# My Tech Stacks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vue)](https://skillicons.dev)
+## 💻 My Tech Stack 💻
+<p align="center">
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vue,nodejs)](https://skillicons.dev)
+</p>
 
+## ✨ Tools ✨
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark)](https://skillicons.dev)
 <!--
 **mantana-chp/mantana-chp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
