@@ -2,7 +2,6 @@
 My name is Mantana Kodcharin
 
 ## My Tech Stack 💻
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs&perline=3)](https://skillicons.dev)
 <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs&perline=3"/>
@@ -22,5 +21,7 @@ My name is Mantana Kodcharin
 - **Phoenix History Website**: Collaborated on a React-based website showcasing the mythical creature Phoenix with engaging visuals and interactive content.
 
 ## My Stats 🏆
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantana-chp&show_icons=true&theme=dracula) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantana-chp&layout=compact)
+</p>
