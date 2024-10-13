@@ -7,6 +7,9 @@
 <a href="https://linkedin.com/in/mantana-kodcharin">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
+<a href="https://discordapp.com/users/imavillian_">
+  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
+</a>
 
 ## My Tech Stack 💻
 <a href="https://skillicons.dev">
