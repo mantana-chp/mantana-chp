@@ -26,3 +26,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantana-chp&layout=compact" alt="Top Languages" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mantana-chp&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
+
+## Contact Me 📫
+- Email: mantana.7664@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mantana-kodcharin-a5a86132a/
