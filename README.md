@@ -9,7 +9,7 @@
 
 ## My Tech Stack 💻
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs&perline=3"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs,adonis,ts&perline=3"/>
 </a>
 
 ## Tools ✨
