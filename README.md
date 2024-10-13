@@ -1,29 +1,22 @@
 <h3>Hi there 👋 👧🏻I'm Mantana Kodcharin 🩷Call me Chompooh for shorts</h3>
-
 ## Contact Me 📫
-<p align="center">
-  <a href="mailto:mantana.7664@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mantana-kodcharin">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</p>
-
+<a href="mailto:mantana.7664@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/mantana-kodcharin">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
 ## My Tech Stack 💻
-<p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs&perline=3"/>
-    </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs&perline=3"/>
+</a>
 
 ## Tools ✨
-<p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark"/>
-    </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark"/>
+</a>
+
 
 ## Current Projects 🚀
 - **KANBAN Board**: Developing a project management tool using Vue.js and Java, aimed at helping teams organize and track tasks efficiently.
