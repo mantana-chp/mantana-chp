@@ -15,5 +15,5 @@
 </p>
 
 ## My Stats 🏆
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantana-chp&show_icons=true&theme=dracula) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantana-chp&show_icons=true&theme=dracula) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mantana-chp&layout=compact)
