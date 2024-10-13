@@ -32,10 +32,11 @@
 - **Language Quiz Website**: Built a beginner-level Chinese language quiz website using Vue.js for an interactive and engaging learning experience.
 - **Phoenix History Website**: Collaborated on a React-based website showcasing the mythical creature Phoenix with engaging visuals and interactive content.
 
+<!-- 
 ## My Stats 🏆
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantana-chp&layout=compact" alt="Top Languages" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=mantana-chp&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
-
+-->
 
