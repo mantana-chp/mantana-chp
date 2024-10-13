@@ -13,12 +13,12 @@
 
 ## My Tech Stack 💻
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs,adonis,ts,docker,github"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs,adonis,ts,docker"/>
 </a>
 
 ## Tools ✨
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,github&theme=dark"/>
 </a>
 
 
