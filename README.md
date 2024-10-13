@@ -17,7 +17,7 @@ My name is Mantana Kodcharin
 
 ## Current Projects 🚀
 - **KANBAN Board**: Developing a project management tool using Vue.js and Java, aimed at helping teams organize and track tasks efficiently.
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantana-chp&repo=PROJECT-SSA2-FE)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mantana-chp&repo=PROJECT-SSA2-FE)](https://github.com/mantana-chp/PROJECT-SSA2-FE.git)
 - **Language Quiz Website**: Built a beginner-level Chinese language quiz website using Vue.js for an interactive and engaging learning experience.
 - **Phoenix History Website**: Collaborated on a React-based website showcasing the mythical creature Phoenix with engaging visuals and interactive content.
 
