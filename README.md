@@ -23,6 +23,6 @@
 
 ## My Stats 🏆
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mantana-chp&show_icons=true&theme=dracula" alt="GitHub Stats" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantana-chp&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mantana-chp&layout=compact" alt="Top Languages" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mantana-chp&show_icons=true&theme=dracula" alt="GitHub Stats" />
 </p>
