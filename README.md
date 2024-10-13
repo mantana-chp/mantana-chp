@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Mantana Kodcharin, but you can call me Chompooh! 🩷 I'm passionate about front-end development and always eager to learn new things. I love collaborating with others to create fun and user-friendly digital experiences. Let's connect and build something awesome together! 😄
+### Hi there 👋 
+I'm Mantana Kodcharin, but you can call me Chompooh! 🩷 I'm passionate about front-end development and always eager to learn new things. I love collaborating with others to create fun and user-friendly digital experiences. Let's connect and build something awesome together! 😄
 
 
 ## Contact Me 📫
@@ -14,7 +15,7 @@
 
 ## My Tech Stack 💻
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs,adonis,ts,docker"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,react,nodejs,adonis,ts,docker"/>
 </a>
 
 ## Tools ✨
