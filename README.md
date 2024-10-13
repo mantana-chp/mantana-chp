@@ -3,8 +3,15 @@
 🩷Call me Chompooh for shorts
 
 ## Contact Me 📫
-- Email: mantana.7664@gmail.com
-- LinkedIn: https://www.linkedin.com/in/mantana-kodcharin-a5a86132a/
+<p align="center">
+  <a href="mailto:mantana.7664@gmail.com">
+    <img src="https://skillicons.dev/icons?i=mail" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mantana-kodcharin-a5a86132a/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
+
 
 ## My Tech Stack 💻
 <p align="center">
