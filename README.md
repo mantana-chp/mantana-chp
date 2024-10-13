@@ -3,7 +3,7 @@
 ## My Tech Stack 💻
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,java,vue,nodejs&perline=3"/>
     </a>
 </p>
 
