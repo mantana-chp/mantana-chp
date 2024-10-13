@@ -13,3 +13,6 @@
       <img src="https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark"/>
     </a>
 </p>
+
+## My Stats 🏆
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
